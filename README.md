@@ -14,7 +14,6 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 
 - [Morteza Omidian 😍](https://github.com/morteza1131)
 - [Hosein Hobbi](https://github.com/HHobbi)
-- [Hassan khodabakhshi ](https://github.com/hassankhodabakhshi)
 - [Mostafa Moafi 🖤](https://github.com/Mostafa-Moafi)
 - [Mahdi Ebrahimi🤞](https://github.com/dev-ir)
 - [Redder](https://github.com/redder123)
@@ -143,6 +142,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohammad Sadra Boromand :kissing_heart::heart_eyes::one::zero::zero:](https://github.com/SadraBoromand)
 - [AmirSalar :computer: ](https://github.com/AmirSalarYaghoubian)
 - [amirprgm](https://github.com/amirprgm)
+- [Hassan khodabakhshi ](https://github.com/hassankhodabakhshi)
 - [Arya:grin:](https://github.com/Arya2255)
 - [Captain](https://github.com/msv-hosein)
 - [Mohammad Kakuei :smiley: :smiley:](https://github.com/mkn777)
